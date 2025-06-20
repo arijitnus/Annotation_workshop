@@ -1,0 +1,10 @@
+name: genome-tools
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - quast
+  - prokka
+  - kofamscan
